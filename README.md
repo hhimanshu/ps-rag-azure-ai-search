@@ -49,3 +49,8 @@ cp hotel_reviews_1000.csv <path_to_project>/azure-ai-search/data/raw
 ```
 
 Replace `<path_to_project>` with the path that locates the project on your machine.
+
+## Resources
+
+- [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search/)
+- [What's Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
