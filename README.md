@@ -4,7 +4,7 @@ This repo contains code for the Pluralsight course [Retrieval Augmented Generati
 
 ## Pre-requisites
 ### Local Setup
-1. Install Anaconda or Miniconda if you haven't already.
+1. Install [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install/) if you haven't already.
 2. Open your terminal and create a new Conda environment using the following command. Replace `myenv` with the name you want to give to your environment.
 
 ```bash
