@@ -16,9 +16,9 @@ conda create -n azure-ai-search python=3.12
 conda activate azure-ai-search
 ```
 4. Install [VS Code](https://code.visualstudio.com/) if you haven't already. Then, install the following extensions:
-    - Python
-    - Jupyter
-    - Data Wrangler (optional)
+    - [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+    - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+    - [Data Wrangler (optional)](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
 
 ### Infrastructure Setup
 1. Create an [Azure account](https://azure.microsoft.com/en-us/free/search) if you haven't already.
