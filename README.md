@@ -3,24 +3,29 @@
 This repo contains code for the Pluralsight course [Retrieval Augmented Generation (RAG) with Azure AI Search]
 
 ## Pre-requisites
+
 ### Local Setup
+
 1. Install [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install/) if you haven't already.
 2. Open your terminal and create a new Conda environment using the following command. Replace `myenv` with the name you want to give to your environment.
 
 ```bash
 conda create -n azure-ai-search python=3.12
 ```
+
 3. Activate the environment.
 
 ```bash
 conda activate azure-ai-search
 ```
+
 4. Install [VS Code](https://code.visualstudio.com/) if you haven't already. Then, install the following extensions:
-    - [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
-    - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-    - [Data Wrangler (optional)](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
+   - [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+   - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+   - [Data Wrangler (optional)](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
 
 ### Infrastructure Setup
+
 1. Create an [Azure account](https://azure.microsoft.com/en-us/free/search) if you haven't already.
 2. Create [OpenAI account](https://platform.openai.com/signup) if you haven't already. This is required to use the `GPT-4o-mini` model.
 
@@ -54,3 +59,5 @@ Replace `<path_to_project>` with the path that locates the project on your machi
 
 - [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search/)
 - [What's Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
+- [Schema of Search Index](https://learn.microsoft.com/en-us/azure/search/search-what-is-an-index#schema-of-a-search-index)
+- [Vector Search - Nearest Neighbor Search](https://learn.microsoft.com/en-us/azure/search/vector-search-overview#nearest-neighbors-search)
