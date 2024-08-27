@@ -61,3 +61,4 @@ Replace `<path_to_project>` with the path that locates the project on your machi
 - [What's Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
 - [Schema of Search Index](https://learn.microsoft.com/en-us/azure/search/search-what-is-an-index#schema-of-a-search-index)
 - [Vector Search - Nearest Neighbor Search](https://learn.microsoft.com/en-us/azure/search/vector-search-overview#nearest-neighbors-search)
+- [Semantic Re-ranking Azure](https://learn.microsoft.com/en-us/azure/search/semantic-search-overview)
