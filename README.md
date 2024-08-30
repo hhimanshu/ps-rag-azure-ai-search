@@ -27,7 +27,7 @@ conda activate azure-ai-search
 ### Infrastructure Setup
 
 1. Create an [Azure account](https://azure.microsoft.com/en-us/free/search) if you haven't already.
-2. Create [OpenAI account](https://platform.openai.com/signup) if you haven't already. This is required to use the `GPT-4o-mini` model.
+2. Create [OpenAI account](https://platform.openai.com/signup) if you haven't already. This is required to use the `GPT-4o-mini` model. Follow [these steps](https://platform.openai.com/docs/quickstart/create-and-export-an-api-key) to create an openai API key.
 
 ## Data
 
